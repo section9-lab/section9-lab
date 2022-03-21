@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=tidesec&count_private=true&show_icons=true" width="380">
+
 - 🌱 I’m currently learning database (need help).
 - 📚 I'm reading [database internal](https://github.com/sinsay/database_internals) & [ddia](https://github.com/Vonng/ddia)
 - 🍉 I want to build my own database named **helyim** written by rust (still in the brain)
