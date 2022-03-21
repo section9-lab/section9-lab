@@ -1,9 +1,9 @@
 ### Hi there 👋
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=section9-lab&count_private=true&show_icons=true" width="380">
 
-- 🌱 I’m currently learning database (need help).
-- 📚 I'm reading [database internal](https://github.com/sinsay/database_internals) & [ddia](https://github.com/Vonng/ddia)
-- 🍉 I want to build my own database named **helyim** written by rust (still in the brain)
+- 🌱
+- 📚 
+- 🍉 
 - ☕️  Feel free to reach me to talk about anything.
 
 ![Metrics](https://metrics.lecoq.io/section9-lab?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
