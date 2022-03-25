@@ -7,7 +7,7 @@
 - ☕️  Feel free to reach me to talk about anything.
 
 ![](https://komarev.com/ghpvc/?username=section9-lab&color=dc143c)
-
+---
 [<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=section9-lab&repo=lab-wiki">](https://section9-lab.github.io/lab-wiki/)
 ---
 [![](https://raw.githubusercontent.com/section9-lab/section9-lab/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/section9-lab)  
