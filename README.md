@@ -5,7 +5,6 @@
 - 📚  Reading 《How to Develop a Compiler》.
 - 🍉  Building a blog system based on github pages.
 - ☕️  Feel free to reach me to talk about anything.
----
 [<img class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=section9-lab&repo=lab-wiki">](https://section9-lab.github.io/lab-wiki/)
 
 ![](https://komarev.com/ghpvc/?username=section9-lab&color=dc143c)
