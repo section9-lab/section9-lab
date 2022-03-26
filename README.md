@@ -18,5 +18,5 @@
 ---
 [<img align='left' class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=section9-lab&repo=section9-lab.github.io">](https://section9-lab.github.io/section9-lab.github.io/)
 
-[<img align='right' class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=section9-lab&repo=lab-wiki">](https://section9-lab.github.io/lab-wiki/)
+[<img align='right' class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=section9-lab&repo=blog">](https://section9-lab.github.io/blog/)
 
