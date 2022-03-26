@@ -14,7 +14,6 @@
 [![](https://raw.githubusercontent.com/section9-lab/section9-lab/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/section9-lab)  
 [![](https://raw.githubusercontent.com/section9-lab/section9-lab/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/section9-lab)
 [![](https://raw.githubusercontent.com/section9-lab/section9-lab/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/section9-lab)
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/section9-lab/section9-lab/output/github-contribution-grid-snake.svg)
 ---
 [<img align='left' class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=section9-lab&repo=section9-lab.github.io">](https://section9-lab.github.io/section9-lab.github.io/)
