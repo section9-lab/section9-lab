@@ -1,11 +1,13 @@
 ### Hi there 👋
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=section9-lab&count_private=true&show_icons=true" width="380">
-[<img align='right' class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=section9-lab&repo=lab-wiki">](https://section9-lab.github.io/lab-wiki/)
+
 - 🌱  Planning to do a project that can query subdomains.
 - 📚  Reading 《How to Develop a Compiler》.
 - 🍉  Building a blog system based on github pages.
 - ☕️  Feel free to reach me to talk about anything.
 - ☕️  Feel free to reach me to talk about anything.
+
+[<img align='right' class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=section9-lab&repo=lab-wiki">](https://section9-lab.github.io/lab-wiki/)
 
 ![](https://komarev.com/ghpvc/?username=section9-lab&color=dc143c)
 ---
