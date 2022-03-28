@@ -4,7 +4,7 @@
 - 🌱  Planning to do a project that can query subdomains.
 - 📚  Reading 《How to Develop a Compiler》.
 - 🍉  Building a blog system based on github pages.
-- ☕️  Feel free to reach me to talk about anything.
+- 🥝  Plan to implement a simple programming language.
 - ☕️  Feel free to reach me to talk about anything.
 
 ![](https://komarev.com/ghpvc/?username=section9-lab&color=dc143c)
