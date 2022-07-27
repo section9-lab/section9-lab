@@ -7,7 +7,6 @@
 - 🥝  Plan to implement a simple programming language.
 - ☕️  Feel free to reach me to talk about anything.
 
-🔧 &#160;
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=Bash&logoColor=FCC624)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FCC624)
