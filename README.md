@@ -1,11 +1,6 @@
 ### Hi there 👋
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=section9-lab&count_private=true&show_icons=true" width="380">
 
-- 🌱  Planning to do a project that can query subdomains.
-- 📚  Reading 《How to Develop a Compiler》.
-- 🍉  Building a blog system based on github pages.
-- 🥝  Plan to implement a simple programming language.
-- ☕️  Feel free to reach me to talk about anything.
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=Bash&logoColor=FCC624)
@@ -15,6 +10,14 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-333333?style=flat&logo=elasticsearch)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+- 🌱  Planning to do a project that can query subdomains.
+- 📚  Reading 《How to Develop a Compiler》.
+- 🍉  Building a blog system based on github pages.
+- 🥝  Plan to implement a simple programming language.
+- ☕️  Feel free to reach me to talk about anything.
+
+
 
 
 ![](https://komarev.com/ghpvc/?username=section9-lab&color=dc143c)
