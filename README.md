@@ -1,12 +1,3 @@
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=Bash&logoColor=FCC624)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FCC624)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot&logoColor=FCC624)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-333333?style=flat&logo=elasticsearch)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
 ### Hi there 👋
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=section9-lab&count_private=true&show_icons=true" width="380">
 
