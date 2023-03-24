@@ -5,7 +5,7 @@
 - 📚  Reading 《How to Develop a Compiler》.
 - 🍉  Building a blog system based on github pages.
 - 🥝  Plan to implement a simple programming language.
-- ☕️  Feel free to reach me to talk about anything.
+- ☕️  Learn database-related courses, for 6.824 CS122 CS186.
 
 
 
