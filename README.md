@@ -8,11 +8,7 @@
 - ☕️  Learn database-related courses, for 6.824 CS122 CS186.
 
 
-
-
 ![](https://komarev.com/ghpvc/?username=section9-lab&color=dc143c)
 ---
 [<img align='left' class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=section9-lab&repo=dns-insight">](https://section9-lab.github.io/dns-insight/)
 [<img align='right' class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=section9-lab&repo=blog">](https://section9-lab.github.io/blog/)
----
-![github contribution grid snake animation](https://raw.githubusercontent.com/section9-lab/section9-lab/output/github-contribution-grid-snake.svg)
