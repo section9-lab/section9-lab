@@ -10,5 +10,5 @@
 
 ![](https://komarev.com/ghpvc/?username=section9-lab&color=dc143c)
 ---
-[<img align='left' class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=section9-lab&repo=dns-insight-service">](https://section9-lab.github.io/dns-insight-service/)
+[<img align='left' class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=section9-lab&repo=dns-insight-service">](https://dns-insight-service.onrender.com/)
 [<img align='right' class="col-lg-6" src="https://github-readme-stats.vercel.app/api/pin/?username=section9-lab&repo=blog">](https://section9-lab.github.io/blog/)
