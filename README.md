@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=section9-lab&color=dc143c)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=section9-lab&count_private=true&show_icons=true" width="380">
 
-- [Conflux](https://github.com/section9-lab/conflux) is a distributed, high-performance connected data integration platform
+- [Conflux](https://github.com/section9-lab/conflux) is a distributed connected data integration platform
 - Planning to do a project that can query [subdomains](https://dns-insight.onrender.com/).
 - Building a [blog](https://section9-lab.github.io/blog/) system based on github pages.
 - Plan to implement [OpenSPL](https://github.com/section9-lab/OpenSPL)(simple programming language).
