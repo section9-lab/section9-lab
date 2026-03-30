@@ -19,7 +19,7 @@
 ## Current Projects
 
 - 🌡️ **[Dyno](https://github.com/section9-lab/dyno)** - Proactive personal assistant that pushes notifications, collects user context, and understands you better
-- 🚇 **[Kegel](https://github.com/section9-lab/Kegel)** - Kegel exercise timer, pelvic floor muscle training health app
+- 🌼 **[Kegel](https://github.com/section9-lab/Kegel)** - Kegel exercise timer, pelvic floor muscle training health app
 - 🚀 **[CoDesk](https://github.com/section9-lab/Codesk)** - Desktop collaborative coding platform
 - 👉 **[Example](https://github.com/section9-lab/example)** - Project template example
 
