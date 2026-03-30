@@ -14,15 +14,15 @@
 
 ## Current Projects
 
-- 🌡️ **[dyno](https://github.com/section9-lab/dyno)** - example
-- 🚇 **[kaggle](https://github.com/section9-lab/kaggle)** - example
-- 🚀 **[CoDesk](https://github.com/codesk)** - example.
-- 👉 **[example](https://github.com/section9-lab/example)** - example.
+- 🌡️ **[Dyno](https://github.com/section9-lab/dyno)** - Proactive personal assistant that pushes notifications, collects user context, and understands you better
+- 🚇 **[KegelTimer](https://github.com/section9-lab/KegelTimer)** - Kegel exercise timer, pelvic floor muscle training health app
+- 🚀 **[CoDesk](https://github.com/section9-lab/Codesk)** - Desktop collaborative coding platform
+- 👉 **[Example](https://github.com/section9-lab/example)** - Project template example
 
 ### Legacy Work
-- 📄 **[LazyResume](https://resume.minicode.net.cn)** - example
-- 🍵 **[AgentOS](https://agent-os.minicode.net.cn)** - example.
-- 🔮 **[example](https://github.com/section9-lab/example)** - example.
+- 📄 **[LazyResume](https://resume.minicode.net.cn)** - AI-powered resume builder
+- 🍵 **[AgentOS](https://agent-os.minicode.net.cn)** - Agent operating system framework
+- 🔮 **[Example](https://github.com/section9-lab/example)** - Reference example project
 
 
 ## GitHub Activity
