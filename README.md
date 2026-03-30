@@ -14,15 +14,15 @@
 
 ## Current Projects
 
-- 🌡️ **[dyno](https://github.com/section-9lab/dyno)** - example
-- 🚇 **[kaggle](https://github.com/section-9lab/kaggle)** - example
+- 🌡️ **[dyno](https://github.com/section9-lab/dyno)** - example
+- 🚇 **[kaggle](https://github.com/section9-lab/kaggle)** - example
 - 🚀 **[CoDesk](https://github.com/codesk)** - example.
-- 👉 **[example](https://github.com/section-9lab/example)** - example.
+- 👉 **[example](https://github.com/section9-lab/example)** - example.
 
 ### Legacy Work
 - 📄 **[LazyResume](https://resume.minicode.net.cn)** - example
 - 🍵 **[AgentOS](https://agent-os.minicode.net.cn)** - example.
-- 🔮 **[example](https://github.com/section-9lab/example)** - example.
+- 🔮 **[example](https://github.com/section9-lab/example)** - example.
 
 
 ## GitHub Activity
