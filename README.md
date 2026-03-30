@@ -14,15 +14,15 @@
 
 ## Current Projects
 
-- 📄 **[example](https://github.com/section-9lab/example)** - example
-- 🚇 **[example](https://github.com/section-9lab/example)** - example
-- 🎚️ **[example](https://github.com/section-9lab/example)** - example.
-- 🚀 **[example](https://github.com/section-9lab/example)** - example
+- 🌡️ **[dyno](https://github.com/section-9lab/dyno)** - example
+- 🚇 **[kaggle](https://github.com/section-9lab/kaggle)** - example
+- 🚀 **[CoDesk](https://github.com/codesk)** - example.
 - 👉 **[example](https://github.com/section-9lab/example)** - example.
 
 ### Legacy Work
-- 🍵 **[example](https://github.com/section-9lab/example)** - example
-- 🌡️ **[example](https://github.com/section-9lab/example)** - example
+- 📄 **[LazyResume](https://resume.minicode.net.cn)** - example
+- 🍵 **[AgentOS](https://agent-os.minicode.net.cn)** - example.
+- 🔮 **[example](https://github.com/section-9lab/example)** - example.
 
 
 ## GitHub Activity
@@ -33,4 +33,3 @@
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/section9-lab)
-
