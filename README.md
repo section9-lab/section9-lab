@@ -1,6 +1,6 @@
 ## Hi I'm Jack 👋
 
-📍 **BJ ↔ SH ↔ SG** | 🤖 **Polyagentmorphic builder** | 🚀 **Ex-MiniCode Founder**
+📍 **BJ ↔ SH ↔ SG** | 🤖 **Polyagentmorphic builder**
 
 ![Pi](https://img.shields.io/badge/-Pi-000000?style=flat-square&logo=pi&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
@@ -24,14 +24,12 @@
 - 🌼 **[Kegel](https://github.com/section9-lab/Kegel)** - Kegel exercise timer, pelvic floor muscle training health app
 - 🚀 **[CoDesk](https://github.com/section9-lab/Codesk)** - Desktop collaborative coding platform
 - 📧 **[PeekMail](https://chromewebstore.google.com/detail/peekmail/eaocldfcekeoljdbjmnjiffdphfbkjcp?authuser=1&hl=zh-CN)** - Quick email preview and management Chrome extension
-- 👉 **[Example](https://github.com/section9-lab/example)** - Project template example
 
 ### Legacy Work
 - 📄 **[LazyResume](https://resume.minicode.net.cn)** - AI-powered resume builder
 - 🍵 **[AgentOS](https://agent-os.minicode.net.cn)** - Agent operating system framework
 - ✨ **[Eva](https://microsoftedge.microsoft.com/addons/detail/dfchiimkbfcfddmgaplgjdceipopeohn)** - AI productivity assistant for Edge browser
-- 🔮 **[Example](https://github.com/section9-lab/example)** - Reference example project
-
+- 👉 **[Example](https://github.com/section9-lab/example)** - Project template example
 
 ## GitHub Activity
 
