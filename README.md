@@ -19,6 +19,8 @@
 ## Current Projects
 
 - 🌡️ **[Dyno](https://github.com/section9-lab/dyno)** - Proactive personal assistant that pushes notifications, collects user context, and understands you better
+- 🌈 **[SwiftAgent](https://github.com/section9-lab/example)** - Project template example
+- 🗿 **[Impulse](https://github.com/section9-lab/example)** - Project template example
 - 🌼 **[Kegel](https://github.com/section9-lab/Kegel)** - Kegel exercise timer, pelvic floor muscle training health app
 - 🚀 **[CoDesk](https://github.com/section9-lab/Codesk)** - Desktop collaborative coding platform
 - 📧 **[PeekMail](https://chromewebstore.google.com/detail/peekmail/eaocldfcekeoljdbjmnjiffdphfbkjcp?authuser=1&hl=zh-CN)** - Quick email preview and management Chrome extension
