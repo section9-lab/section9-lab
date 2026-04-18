@@ -19,9 +19,9 @@
 ## Current Projects
 
 - 🌖 **[VibeHUD](https://github.com/section9-lab/VibeHUD)** - A macOS menu bar app that brings Dynamic Island-style notifications to vibe coding sessions
-- 🗿 **[Impulse](https://github.com/section9-lab/Impulse)** - Proactive personal assistant that pushes notifications, collects user context, and understands you better
+- 🪐 **[Impulse](https://github.com/section9-lab/Impulse)** - Proactive personal assistant that pushes notifications, collects user context, and understands you better
 - 🚀 **[CoDesk](https://github.com/section9-lab/Codesk)** - Desktop collaborative coding platform
-- 🌈 **[SwiftAgent](https://github.com/section9-lab/SwiftAgent)** - Native Swift AI Agent framework with LLM integration and tool calling capabilities, inspired by **[PI](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent)**
+- 🗿 **[SwiftAgent](https://github.com/section9-lab/SwiftAgent)** - Native Swift AI Agent framework with LLM integration and tool calling capabilities, inspired by **[PI](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent)**
 - 🐚 **[AppleSPUAccelerometer](https://github.com/section9-lab/AppleSPUAccelerometer)** - A Swift Package for reading the undocumented MEMS accelerometer (Bosch BMI286 IMU) on Apple Silicon MacBooks via IOKit HID
 - 🌼 **[Kegel](https://github.com/section9-lab/Kegel)** - Kegel exercise timer, pelvic floor muscle training health app
 - 📧 **[PeekMail](https://chromewebstore.google.com/detail/peekmail/eaocldfcekeoljdbjmnjiffdphfbkjcp?authuser=1&hl=zh-CN)** - Quick email preview and management Chrome extension
