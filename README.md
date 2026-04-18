@@ -28,7 +28,6 @@
 
 ### Legacy Work
 - 📄 **[LazyResume](https://resume.minicode.net.cn)** - AI-powered resume builder
-- 🍵 **[AgentOS](https://agent-os.minicode.net.cn)** - Agent operating system framework
 - ✨ **[Eva](https://microsoftedge.microsoft.com/addons/detail/dfchiimkbfcfddmgaplgjdceipopeohn)** - AI productivity assistant for Edge browser
 - 👉 **[Example](https://github.com/section9-lab/example)** - Project template example
 
