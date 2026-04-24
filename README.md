@@ -20,16 +20,15 @@
 
 - 🌖 **[VibeHUD](https://github.com/section9-lab/VibeHUD)** - A macOS menu bar app that brings Dynamic Island-style notifications to vibe coding sessions
 - 🪐 **[Impulse](https://github.com/section9-lab/Impulse)** - Proactive personal assistant that pushes notifications, collects user context, and understands you better
-- 🚀 **[CoDesk](https://github.com/section9-lab/Codesk)** - Desktop collaborative coding platform
 - 🗿 **[SwiftCodingAgent](https://github.com/section9-lab/SwiftCodingAgent)** - Native Swift AI Agent framework with LLM integration and tool calling capabilities, inspired by **[PI](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent)**
 - 🐚 **[AppleSPUAccelerometer](https://github.com/section9-lab/AppleSPUAccelerometer)** - A Swift Package for reading the undocumented MEMS accelerometer (Bosch BMI286 IMU) on Apple Silicon MacBooks via IOKit HID
 - 🌼 **[Kegel](https://github.com/section9-lab/Kegel)** - Kegel exercise timer, pelvic floor muscle training health app
 - 📧 **[PeekMail](https://chromewebstore.google.com/detail/peekmail/eaocldfcekeoljdbjmnjiffdphfbkjcp?authuser=1&hl=zh-CN)** - Quick email preview and management Chrome extension
 
 ### Legacy Work
+- 🚀 **[CoDesk](https://github.com/section9-lab/Codesk)** - Desktop collaborative coding platform
 - 📄 **[LazyResume](https://resume.minicode.net.cn)** - AI-powered resume builder
 - ✨ **[Eva](https://microsoftedge.microsoft.com/addons/detail/dfchiimkbfcfddmgaplgjdceipopeohn)** - AI productivity assistant for Edge browser
-- 👉 **[Example](https://github.com/section9-lab/example)** - Project template example
 
 ## GitHub Activity
 
