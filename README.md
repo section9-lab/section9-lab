@@ -18,7 +18,7 @@
 
 ## Current Projects
 
-- 🌐 **[ego-lite](https://github.com/citrolabs/ego-lite)** [![GitHub stars](https://img.shields.io/github/stars/citrolabs/ego-lite?style=flat-square&logo=github&label=stars)](https://github.com/citrolabs/ego-lite/stargazers) - Browser where users and AI agents work in parallel through isolated Spaces and the ego-browser skill
+- 🌐 **[ego-lite](https://github.com/citrolabs/ego-lite)** - Browser where users and AI agents work in parallel through isolated Spaces and the ego-browser skill [![GitHub stars](https://img.shields.io/github/stars/citrolabs/ego-lite?style=social)](https://github.com/citrolabs/ego-lite/stargazers)
 - 🌖 **[VibeHUD](https://github.com/section9-lab/VibeHUD)** - A macOS menu bar app that brings Dynamic Island-style notifications to vibe coding sessions
 - 🪐 **[Impulse](https://github.com/section9-lab/Impulse)** - Proactive personal assistant that pushes notifications, collects user context, and understands you better
 - 🗿 **[SwiftHarnessAgent](https://github.com/section9-lab/SwiftHarnessAgent)** - Native Swift AI Agent framework with LLM integration and tool calling capabilities, inspired by **[PI](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent)**
