@@ -18,11 +18,11 @@
 
 ## Current Projects
 
+- 🌐 **[ego-lite](https://github.com/citrolabs/ego-lite)** [![GitHub stars](https://img.shields.io/github/stars/citrolabs/ego-lite?style=flat-square&logo=github&label=stars)](https://github.com/citrolabs/ego-lite/stargazers) - Browser where users and AI agents work in parallel through isolated Spaces and the ego-browser skill
 - 🌖 **[VibeHUD](https://github.com/section9-lab/VibeHUD)** - A macOS menu bar app that brings Dynamic Island-style notifications to vibe coding sessions
 - 🪐 **[Impulse](https://github.com/section9-lab/Impulse)** - Proactive personal assistant that pushes notifications, collects user context, and understands you better
 - 🗿 **[SwiftHarnessAgent](https://github.com/section9-lab/SwiftHarnessAgent)** - Native Swift AI Agent framework with LLM integration and tool calling capabilities, inspired by **[PI](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent)**
 - 🐚 **[AppleSPUAccelerometer](https://github.com/section9-lab/AppleSPUAccelerometer)** - A Swift Package for reading the undocumented MEMS accelerometer (Bosch BMI286 IMU) on Apple Silicon MacBooks via IOKit HID
-- 🌐 **[ego-lite](https://github.com/citrolabs/ego-lite)** - Browser where users and AI agents work in parallel through isolated Spaces and the ego-browser skill
 - 🧩 **[pi-browser-cdp-extension](https://github.com/citrolabs/pi-browser-cdp-extension)** - Pi coding-agent extension that drives real Chromium pages through CDP with browser_execute
 - 🎙️ **[Kara](https://github.com/section9-lab/Kara)** - Native macOS real-time voice notes app for transcription, translation, summaries, and mind maps
 - 💬 **[wchat-claw-swfit](https://github.com/section9-lab/wchat-claw-swfit)** - Swift SDK and CLI experiment for Weixin iLink bot login, polling, messaging, and agent replies
@@ -34,12 +34,8 @@
 - 📄 **[LazyResume](https://resume.minicode.net.cn)** - AI-powered resume builder
 - ✨ **[Eva](https://microsoftedge.microsoft.com/addons/detail/dfchiimkbfcfddmgaplgjdceipopeohn)** - AI productivity assistant for Edge browser
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/section9-lab)
-
-
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/section9-lab)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wangshiheng/)
+[![X](https://img.shields.io/badge/X-imWangJack-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/imWangJack)
