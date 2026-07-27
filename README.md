@@ -16,6 +16,8 @@
 ![WXT](https://img.shields.io/badge/-WXT-00C7B7?style=flat-square&logo=webpack&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
+<a href="https://trendshift.io/repositories/42334?utm_source=repository-badge&utm_medium=badge&utm_campaign=badge-repository-42334" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/42334" alt="citrolabs/ego-lite | Trendshift" width="250" height="55"/></a>
+
 ## Current Projects
 
 - 🧭 **[safari-browser-use](https://github.com/vibevibe-labs/safari-browser-use)** - Native Safari automation for AI agents using existing Safari 26 tabs without extensions or companion apps
