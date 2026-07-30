@@ -30,13 +30,13 @@
 - 🐚 **[AppleSPUAccelerometer](https://github.com/section9-lab/AppleSPUAccelerometer)** - A Swift Package for reading the undocumented MEMS accelerometer (Bosch BMI286 IMU) on Apple Silicon MacBooks via IOKit HID
 - 🎙️ **[Kara](https://github.com/section9-lab/Kara)** - Native macOS real-time voice notes app for transcription, translation, summaries, and mind maps
 - 💬 **[wchat-claw-swfit](https://github.com/section9-lab/wchat-claw-swfit)** - Swift SDK and CLI experiment for Weixin iLink bot login, polling, messaging, and agent replies
-- 🌼 **[Kegel](https://github.com/section9-lab/Kegel)** - Kegel exercise timer, pelvic floor muscle training health app
-- 📧 **[PeekMail](https://chromewebstore.google.com/detail/peekmail/eaocldfcekeoljdbjmnjiffdphfbkjcp?authuser=1&hl=zh-CN)** - Quick email preview and management Chrome extension
 
 ### Legacy Work
 - 🚀 **[CoDesk](https://github.com/section9-lab/Codesk)** - Desktop collaborative coding platform
 - 📄 **[LazyResume](https://resume.minicode.net.cn)** - AI-powered resume builder
 - ✨ **[Eva](https://microsoftedge.microsoft.com/addons/detail/dfchiimkbfcfddmgaplgjdceipopeohn)** - AI productivity assistant for Edge browser
+- 🌼 **[Kegel](https://github.com/section9-lab/Kegel)** - Kegel exercise timer, pelvic floor muscle training health app
+- 📧 **[PeekMail](https://chromewebstore.google.com/detail/peekmail/eaocldfcekeoljdbjmnjiffdphfbkjcp?authuser=1&hl=zh-CN)** - Quick email preview and management Chrome extension
 
 ## Connect
 
