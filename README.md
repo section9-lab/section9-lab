@@ -22,8 +22,8 @@
 ## Current Projects
 
 - 🛠️ **[pi-work](https://github.com/section9-lab/pi-work)** - Native macOS home for AI conversations, project work, skills, extensions, and scheduled tasks
-- 🧭 **[safari-browser-use](https://github.com/vibevibe-labs/safari-browser-use)** - Native Safari automation for AI agents using existing Safari 26 tabs without extensions or companion apps
 - 🧑‍🚀 **[ego-lite](https://github.com/citrolabs/ego-lite)** - Browser where users and AI agents work in parallel through isolated Spaces and the ego-browser skill
+- 🧭 **[safari-browser-use](https://github.com/vibevibe-labs/safari-browser-use)** - Native Safari automation for AI agents using existing Safari 26 tabs without extensions or companion apps
 - 🌐 **[pi-chrome-use](https://github.com/citrolabs/pi-chrome-use)** - A real-browser CDP execution extension for Pi agents
 - 🌖 **[vibe-hud](https://github.com/section9-lab/vibe-hud)** - A macOS menu bar app that brings Dynamic Island-style notifications to vibe coding sessions
 - 🗿 **[SwiftHarnessAgent](https://github.com/section9-lab/SwiftHarnessAgent)** - Native Swift AI Agent framework with LLM integration and tool calling capabilities, inspired by **[PI](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent)**
