@@ -16,15 +16,19 @@
 ![WXT](https://img.shields.io/badge/-WXT-00C7B7?style=flat-square&logo=webpack&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-<a href="https://trendshift.io/repositories/42334?utm_source=repository-badge&utm_medium=badge&utm_campaign=badge-repository-42334" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/42334" alt="citrolabs/ego-lite | Trendshift" width="250" height="55"/></a>
-<a href="https://trendshift.io/repositories/42334?utm_source=trendshift-badge&utm_medium=badge&utm_campaign=badge-trendshift-42334" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/42334/weekly?language=JavaScript" alt="citrolabs/ego-lite | Trendshift" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/42334?utm_source=repository-badge&utm_medium=badge&utm_campaign=badge-repository-42334" target="_blank" rel="noopener noreferrer">
+    <img src="https://trendshift.io/api/badge/repositories/42334" alt="citrolabs/ego-lite | Trendshift" width="250" height="55"/>
+</a>
+<a href="https://trendshift.io/repositories/42334?utm_source=trendshift-badge&utm_medium=badge&utm_campaign=badge-trendshift-42334" target="_blank" rel="noopener noreferrer">
+    <img src="https://trendshift.io/api/badge/trendshift/repositories/42334/weekly?language=JavaScript" alt="citrolabs/ego-lite | Trendshift" width="250" height="55"/>
+</a>
 
 ## Current Projects
 
-- 🛠️ **[pi-work](https://github.com/section9-lab/pi-work)** - Native macOS home for AI conversations, project work, skills, extensions, and scheduled tasks
-- 🧑‍🚀 **[ego-lite](https://github.com/citrolabs/ego-lite)** - Browser where users and AI agents work in parallel through isolated Spaces and the ego-browser skill
-- 🧭 **[safari-browser-use](https://github.com/vibevibe-labs/safari-browser-use)** - Native Safari automation for AI agents using existing Safari 26 tabs without extensions or companion apps
-- 🌐 **[pi-chrome-use](https://github.com/citrolabs/pi-chrome-use)** - A real-browser CDP execution extension for Pi agents
+- 🧑‍🚀 **[ego-lite](https://github.com/citrolabs/ego-lite)** - Browser where users and AI agents work in parallel through isolated Spaces and the ego-browser skill.![GitHub Repo stars](https://img.shields.io/github/stars/citrolabs/ego-lite)
+- 🛠️ **[pi-work](https://github.com/section9-lab/pi-work)** - Native macOS home for AI conversations, project work, skills, extensions, and scheduled tasks.![GitHub Repo stars](https://img.shields.io/github/stars/section9-lab/pi-work)
+- 🌐 **[pi-chrome-use](https://github.com/citrolabs/pi-chrome-use)** - A real-browser CDP execution extension for Pi agents.![GitHub Repo stars](https://img.shields.io/github/stars/citrolabs/pi-chrome-use)
+- 🧭 **[safari-browser-use](https://github.com/vibevibe-labs/safari-browser-use)** - Native Safari automation for AI agents using existing Safari 26 tabs without extensions or companion apps.![GitHub Repo stars](https://img.shields.io/github/stars/vibevibe-labs/safari-browser-use)
 - 🌖 **[vibe-hud](https://github.com/section9-lab/vibe-hud)** - A macOS menu bar app that brings Dynamic Island-style notifications to vibe coding sessions
 - 🗿 **[SwiftHarnessAgent](https://github.com/section9-lab/SwiftHarnessAgent)** - Native Swift AI Agent framework with LLM integration and tool calling capabilities, inspired by **[PI](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent)**
 - 🐚 **[AppleSPUAccelerometer](https://github.com/section9-lab/AppleSPUAccelerometer)** - A Swift Package for reading the undocumented MEMS accelerometer (Bosch BMI286 IMU) on Apple Silicon MacBooks via IOKit HID
@@ -32,6 +36,7 @@
 - 💬 **[wchat-claw-swfit](https://github.com/section9-lab/wchat-claw-swfit)** - Swift SDK and CLI experiment for Weixin iLink bot login, polling, messaging, and agent replies
 
 ### Legacy Work
+
 - 🚀 **[CoDesk](https://github.com/section9-lab/Codesk)** - Desktop collaborative coding platform
 - 📄 **[LazyResume](https://resume.minicode.net.cn)** - AI-powered resume builder
 - ✨ **[Eva](https://microsoftedge.microsoft.com/addons/detail/dfchiimkbfcfddmgaplgjdceipopeohn)** - AI productivity assistant for Edge browser
