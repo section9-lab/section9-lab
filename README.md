@@ -49,4 +49,6 @@
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/section9-lab)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wangshiheng/)
 [![X](https://img.shields.io/badge/X-imWangJack-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/imWangJack)
-[![即刻](https://img.shields.io/badge/%E5%8D%B3%E5%88%BB-FFE411?style=flat-square&logoColor=black)](https://web.okjike.com/u/AD1974F5-3D0D-474F-AB10-BA9221482CAF)
+<a href="https://web.okjike.com/u/AD1974F5-3D0D-474F-AB10-BA9221482CAF">
+  <img src="https://web.okjike.com/favicon.ico" alt="即刻" height="20">
+</a>
