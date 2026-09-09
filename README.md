@@ -34,10 +34,10 @@
 - 🗿 **[SwiftHarnessAgent](https://github.com/section9-lab/SwiftHarnessAgent)** - Native Swift AI Agent framework with LLM integration and tool calling capabilities, inspired by **[PI](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent)**.![GitHub Repo stars](https://img.shields.io/github/stars/section9-lab/SwiftHarnessAgent)
 - 🐚 **[AppleSPUAccelerometer](https://github.com/section9-lab/AppleSPUAccelerometer)** - A Swift Package for reading the undocumented MEMS accelerometer (Bosch BMI286 IMU) on Apple Silicon MacBooks via IOKit HID.![GitHub Repo stars](https://img.shields.io/github/stars/section9-lab/AppleSPUAccelerometer)
 - 🎙️ **[Kara](https://github.com/section9-lab/Kara)** - Native macOS real-time voice notes app for transcription, translation, summaries, and mind maps.![GitHub Repo stars](https://img.shields.io/github/stars/section9-lab/Kara)
-- 💬 **[wchat-claw-swfit](https://github.com/section9-lab/wchat-claw-swfit)** - Swift SDK and CLI experiment for Weixin iLink bot login, polling, messaging, and agent replies.![GitHub Repo stars](https://img.shields.io/github/stars/section9-lab/wchat-codex)
 
 ### Legacy Work
 
+- 💬 **[wchat-claw-swfit](https://github.com/section9-lab/wchat-claw-swfit)** - Swift SDK and CLI experiment for Weixin iLink bot login, polling, messaging, and agent replies.
 - 🚀 **[CoDesk](https://github.com/section9-lab/Codesk)** - Desktop collaborative coding platform
 - 📄 **[LazyResume](https://resume.minicode.net.cn)** - AI-powered resume builder
 - ✨ **[Eva](https://microsoftedge.microsoft.com/addons/detail/dfchiimkbfcfddmgaplgjdceipopeohn)** - AI productivity assistant for Edge browser
