@@ -30,10 +30,10 @@
 - 🌐 **[pi-chrome-use](https://github.com/citrolabs/pi-chrome-use)** - A real-browser CDP execution extension for Pi agents.![GitHub Repo stars](https://img.shields.io/github/stars/citrolabs/pi-chrome-use)
 - 🧭 **[safari-browser-use](https://github.com/citrolabs/safari-browser-use)** - Native Safari automation for AI agents using existing Safari 26 tabs without extensions or companion apps.![GitHub Repo stars](https://img.shields.io/github/stars/vibevibe-labs/safari-browser-use)
 - 🌖 **[vibe-hud](https://github.com/section9-lab/vibe-hud)** - A macOS menu bar app that brings Dynamic Island-style notifications to vibe coding sessions.![GitHub Repo stars](https://img.shields.io/github/stars/section9-lab/vibe-hud)
+- 🎙️ **[MyClip](https://github.com/section9-lab/MyClip)** - MyClip helps you remember what you were working on.![GitHub Repo stars](https://img.shields.io/github/stars/section9-lab/MyClip)
 - 📊 **[ego-browser-benchmark](https://github.com/citrolabs/ego-browser-benchmark-framework)** - Reproducible benchmark harness for comparing model browser-task performance under controlled agent and browser-tool settings.![GitHub Repo stars](https://img.shields.io/github/stars/citrolabs/ego-browser-benchmark-framework)
 - 🗿 **[SwiftHarnessAgent](https://github.com/section9-lab/SwiftHarnessAgent)** - Native Swift AI Agent framework with LLM integration and tool calling capabilities, inspired by **[PI](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent)**.![GitHub Repo stars](https://img.shields.io/github/stars/section9-lab/SwiftHarnessAgent)
 - 🐚 **[AppleSPUAccelerometer](https://github.com/section9-lab/AppleSPUAccelerometer)** - A Swift Package for reading the undocumented MEMS accelerometer (Bosch BMI286 IMU) on Apple Silicon MacBooks via IOKit HID.![GitHub Repo stars](https://img.shields.io/github/stars/section9-lab/AppleSPUAccelerometer)
-- 🎙️ **[MyClip](https://github.com/section9-lab/MyClip)** - Native macOS real-time voice notes app for transcription, translation, summaries, and mind maps.![GitHub Repo stars](https://img.shields.io/github/stars/section9-lab/MyClip)
 
 ### Legacy Work
 
