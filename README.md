@@ -1,4 +1,4 @@
-## Hi I'm Jack 👋
+## Hi I'm Jack <img src="assets/hi.gif" alt="Waving hand" width="30"/>
 
 📍 **BJ ↔ SH ↔ SG** | 🤖 **Polyagentmorphic builder**
 
