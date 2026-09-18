@@ -23,7 +23,7 @@
     <img src="https://trendshift.io/api/badge/trendshift/repositories/42334/weekly?language=JavaScript" alt="citrolabs/ego-lite | Trendshift" width="250" height="55"/>
 </a>
 
-## Research
+## Papers
 
 📄 **[RoleBench](https://arxiv.org):** Outcome-Centric, Low-Variance Evaluation of Browser-Use Agents on Stateful Public–Enterprise Web Operations
 
