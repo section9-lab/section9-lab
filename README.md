@@ -32,7 +32,7 @@
 
 - 🧑‍🚀 **[ego-lite](https://github.com/citrolabs/ego-lite)** - Browser where users and AI agents work in parallel through isolated Spaces and the ego-browser skill.![GitHub Repo stars](https://img.shields.io/github/stars/citrolabs/ego-lite)
 - 🛠️ **[pi-work](https://github.com/section9-lab/pi-work)** - A native macOS SwiftUI agent distribution built around **[Pi](https://github.com/badlogic/pi-mono)**, bringing conversations, projects, skills, extensions, and scheduled tasks into one desktop workspace.![GitHub Repo stars](https://img.shields.io/github/stars/section9-lab/pi-work)
-- 🎙️ **[MyClip](https://github.com/section9-lab/MyClip)** - MyClip helps you remember what you were working on.![GitHub Repo stars](https://img.shields.io/github/stars/section9-lab/MyClip)
+- 📸 **[MyClip](https://github.com/section9-lab/MyClip)** - MyClip helps you remember what you were working on.![GitHub Repo stars](https://img.shields.io/github/stars/section9-lab/MyClip)
 - 🌖 **[vibe-hud](https://github.com/section9-lab/vibe-hud)** - A macOS menu bar app that brings Dynamic Island-style notifications to vibe coding sessions.![GitHub Repo stars](https://img.shields.io/github/stars/section9-lab/vibe-hud)
 - 🌐 **[pi-chrome-use](https://github.com/citrolabs/pi-chrome-use)** - A real-browser CDP execution extension for Pi agents.![GitHub Repo stars](https://img.shields.io/github/stars/citrolabs/pi-chrome-use)
 - 🧭 **[safari-browser-use](https://github.com/citrolabs/safari-browser-use)** - Native Safari automation for AI agents using existing Safari 26 tabs without extensions or companion apps.![GitHub Repo stars](https://img.shields.io/github/stars/vibevibe-labs/safari-browser-use)
