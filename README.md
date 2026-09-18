@@ -23,6 +23,16 @@
     <img src="https://trendshift.io/api/badge/trendshift/repositories/42334/weekly?language=JavaScript" alt="citrolabs/ego-lite | Trendshift" width="250" height="55"/>
 </a>
 
+## Research
+
+📄 **RoleBench: Outcome-Centric, Low-Variance Evaluation of Browser-Use Agents on Stateful Public–Enterprise Web Operations**
+
+Jack Wang, Alan Wu · Citro Labs
+
+A benchmark for evaluating browser-use agents on stateful workflows across public websites and enterprise systems, with outcome-based scoring and paired, interleaved runs for cost comparisons.
+
+*Preprint coming soon.*
+
 ## Current Projects
 
 - 🧑‍🚀 **[ego-lite](https://github.com/citrolabs/ego-lite)** - Browser where users and AI agents work in parallel through isolated Spaces and the ego-browser skill.![GitHub Repo stars](https://img.shields.io/github/stars/citrolabs/ego-lite)
