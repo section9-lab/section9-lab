@@ -27,11 +27,6 @@
 
 📄 **RoleBench: Outcome-Centric, Low-Variance Evaluation of Browser-Use Agents on Stateful Public–Enterprise Web Operations**
 
-Jack Wang, Alan Wu · Citro Labs
-
-A benchmark for evaluating browser-use agents on stateful workflows across public websites and enterprise systems, with outcome-based scoring and paired, interleaved runs for cost comparisons.
-
-*Preprint coming soon.*
 
 ## Current Projects
 
