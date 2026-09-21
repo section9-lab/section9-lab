@@ -25,7 +25,7 @@
 
 ## Papers
 
-📄 **[RoleBench](https://arxiv.org):** Outcome-Centric, Low-Variance Evaluation of Browser-Use Agents on Stateful Public–Enterprise Web Operations
+📄 **《[RoleBench:Outcome-Centric, Low-Variance Evaluation of Browser-Use Agents on Stateful Public–Enterprise Web Operations]》**(https://arxiv.org)Under review..
 
 
 ## Current Projects
