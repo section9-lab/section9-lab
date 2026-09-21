@@ -23,11 +23,6 @@
     <img src="https://trendshift.io/api/badge/trendshift/repositories/42334/weekly?language=JavaScript" alt="citrolabs/ego-lite | Trendshift" width="250" height="55"/>
 </a>
 
-## Papers
-
-📄 **《[RoleBench:Outcome-Centric, Low-Variance Evaluation of Browser-Use Agents on Stateful Public–Enterprise Web Operations](https://arxiv.org)》**Under review..
-
-
 ## Current Projects
 
 - 🧑‍🚀 **[ego-lite](https://github.com/citrolabs/ego-lite)** - Browser where users and AI agents work in parallel through isolated Spaces and the ego-browser skill.![GitHub Repo stars](https://img.shields.io/github/stars/citrolabs/ego-lite)
@@ -49,6 +44,11 @@
 - ✨ **[Eva](https://microsoftedge.microsoft.com/addons/detail/dfchiimkbfcfddmgaplgjdceipopeohn)** - AI productivity assistant for Edge browser
 - 🌼 **[Kegel](https://github.com/section9-lab/Kegel)** - Kegel exercise timer, pelvic floor muscle training health app
 - 📧 **[PeekMail](https://chromewebstore.google.com/detail/peekmail/eaocldfcekeoljdbjmnjiffdphfbkjcp?authuser=1&hl=zh-CN)** - Quick email preview and management Chrome extension
+
+## Research
+
+- 📄《[RoleBench:Outcome-Centric, Low-Variance Evaluation of Browser-Use Agents on Stateful Public–Enterprise Web Operations](https://arxiv.org)》Under review..
+
 
 ## Connect
 
