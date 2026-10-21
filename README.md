@@ -45,12 +45,6 @@
 - 🌼 **[Kegel](https://github.com/section9-lab/Kegel)** - Kegel exercise timer, pelvic floor muscle training health app
 - 📧 **[PeekMail](https://chromewebstore.google.com/detail/peekmail/eaocldfcekeoljdbjmnjiffdphfbkjcp?authuser=1&hl=zh-CN)** - Quick email preview and management Chrome extension
 
-## Help & Resources
-- **[MyClip](https://github.com/section9-lab/MyClip/blob/HEAD/docs/README.zh-CN.md)** - Chinese user guide.
-- **[Chat Bridge](https://github.com/section9-lab/chat-bridge/blob/HEAD/README.zh-CN.md)** - Chinese setup and usage guide.
-- **[ego-lite](https://github.com/citrolabs/ego-lite/blob/HEAD/README.zh-CN.md)** - Chinese getting-started guide.
-- **[pi-work](https://github.com/section9-lab/pi-work#readme)** - Project overview, setup, and usage.
-
 ## Research
 
 - 📄《[RoleBench:Outcome-Centric, Low-Variance Evaluation of Browser-Use Agents on Stateful Public–Enterprise Web Operations](https://arxiv.org)》Under review..
