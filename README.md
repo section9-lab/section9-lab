@@ -33,11 +33,11 @@
 - 🌐 **[pi-chrome-use](https://github.com/citrolabs/pi-chrome-use)** - A real-browser CDP execution extension for Pi agents.![GitHub Repo stars](https://img.shields.io/github/stars/citrolabs/pi-chrome-use)
 - 🧭 **[safari-browser-use](https://github.com/citrolabs/safari-browser-use)** - Native Safari automation for AI agents using existing Safari 26 tabs without extensions or companion apps.![GitHub Repo stars](https://img.shields.io/github/stars/vibevibe-labs/safari-browser-use)
 - 📊 **[ego-browser-benchmark](https://github.com/citrolabs/ego-browser-benchmark-framework)** - Reproducible benchmark harness for comparing model browser-task performance under controlled agent and browser-tool settings.![GitHub Repo stars](https://img.shields.io/github/stars/citrolabs/ego-browser-benchmark-framework)
-- 🗿 **[SwiftHarnessAgent](https://github.com/section9-lab/SwiftHarnessAgent)** - Native Swift AI Agent framework with LLM integration and tool calling capabilities, inspired by **[PI](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent)**.![GitHub Repo stars](https://img.shields.io/github/stars/section9-lab/SwiftHarnessAgent)
-- 🐚 **[AppleSPUAccelerometer](https://github.com/section9-lab/AppleSPUAccelerometer)** - A Swift Package for reading the undocumented MEMS accelerometer (Bosch BMI286 IMU) on Apple Silicon MacBooks via IOKit HID.![GitHub Repo stars](https://img.shields.io/github/stars/section9-lab/AppleSPUAccelerometer)
 
 ### Legacy Work
 
+- 🗿 **[SwiftHarnessAgent](https://github.com/section9-lab/SwiftHarnessAgent)** - Native Swift AI Agent framework with LLM integration and tool calling capabilities, inspired by **[PI](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent)**.![GitHub Repo stars](https://img.shields.io/github/stars/section9-lab/SwiftHarnessAgent)
+- 🐚 **[AppleSPUAccelerometer](https://github.com/section9-lab/AppleSPUAccelerometer)** - A Swift Package for reading the undocumented MEMS accelerometer (Bosch BMI286 IMU) on Apple Silicon MacBooks via IOKit HID.![GitHub Repo stars](https://img.shields.io/github/stars/section9-lab/AppleSPUAccelerometer)
 - 💬 **[wchat-claw-swfit](https://github.com/section9-lab/wchat-claw-swfit)** - Swift SDK and CLI experiment for Weixin iLink bot login, polling, messaging, and agent replies.
 - 🚀 **[CoDesk](https://github.com/section9-lab/Codesk)** - Desktop collaborative coding platform
 - 📄 **[LazyResume](https://resume.minicode.net.cn)** - AI-powered resume builder
